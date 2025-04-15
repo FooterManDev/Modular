@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "io.github.footermandev.Modular.mixin",
+  "package": "io.github.footermandev.modular.mixin",
   "compatibilityLevel": "JAVA_8",
   "refmap": "Modular.refmap.json",
   "mixins": [

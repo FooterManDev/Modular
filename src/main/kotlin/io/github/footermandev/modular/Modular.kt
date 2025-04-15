@@ -1,4 +1,4 @@
-package io.github.footermandev.Modular
+package io.github.footermandev.modular
 
 import net.neoforged.fml.common.Mod
 
